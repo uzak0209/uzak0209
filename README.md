@@ -1,7 +1,7 @@
 ## Hi there 👋
-名工大情報学部code所属です。
-情報安全確保支援士、TOEIC820点取得。
-最近はGoとRustを触っています。
+名工大情報学部code所属です。　　
+情報安全確保支援士、TOEIC820点取得。　　
+最近はGoとRustを触っています。　　
 <!--
 **uzak0209/uzak0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
