@@ -15,4 +15,4 @@
 ## バックエンド
 [![My Skills](https://skillicons.dev/icons?i=go,rust,c,java,python)](https://skillicons.dev)
 ## インフラ
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,kali,ubuntu,nginx,apache)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kali,ubuntu,nginx,apache)](https://skillicons.dev)
