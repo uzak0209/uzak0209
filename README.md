@@ -5,7 +5,7 @@
 | ---- | ---- |
 | 情報安全確保支援士合格 | TOEIC820点取得　|
 
-最近はGoとRustを触っています \
+最近はGoとRustを触っています 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=MultiLanguage,PullRequest,Repository,Experience,Commit)](https://github.com/ryo-ma/github-profile-trophy)
 ## フロントエンド
