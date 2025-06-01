@@ -8,7 +8,8 @@
 
 、
 最近はGoとRustを触っています 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzak0209
+)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=MultiLanguage,PullRequest,Repository,Experience,Commit)](https://github.com/ryo-ma/github-profile-trophy)
 ## フロントエンド
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html)](https://skillicons.dev)
