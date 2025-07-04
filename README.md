@@ -11,7 +11,7 @@
 最近はGoとRustを触っています 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=MultiLanguage,PullRequest,Repository,Experience,Commit)](https://github.com/ryo-ma/github-profile-trophy)
 ## フロントエンド
-[![My Skills](https://skillicons.dev/icons?i=ts,next,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,next,tailwind,react)](https://skillicons.dev)
 ## バックエンド
 [![My Skills](https://skillicons.dev/icons?i=go,rust,c,java,python)](https://skillicons.dev)
 ## インフラ
